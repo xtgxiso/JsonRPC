@@ -1,3 +1,2 @@
 # JsonRPC
-GO语言json协议的rpc服务和调用
-php调用go的服务
+GO语言json协议的rpc服务和调用，同时也封装了php调用go服务的例子
